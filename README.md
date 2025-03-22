@@ -1,2 +1,2 @@
-einforcement learning simulation on classical engineering control problems. The simulation model is provided which includes MATLAB SIMULINK model for water tank system. The water tank system is a common system in industrial control. 
+Reinforcement learning simulation on classical engineering control problems. The simulation model is provided which includes MATLAB SIMULINK model for water tank system. The water tank system is a common system in industrial control. 
 Reinforcement Learning (RL) Delayed Deep Deterministic Policy Gradient (DDDPG) or in short RL-DDDPG agent is an agent interacts with the environment, and the RL algorithm reinforces the agent to choose an action according to the located state of the environment to obtain the larger return reward.
